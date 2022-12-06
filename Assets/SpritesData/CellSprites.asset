@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55f75026eed85dd4a9a0330abb28de7f, type: 3}
+  m_Name: CellSprites
+  m_EditorClassIdentifier: 
+  CloseSprite: {fileID: 7102466407995618902, guid: 7b461623ae1ba87468a5b19151f5f8bd,
+    type: 3}
+  BombSprite: {fileID: -4942305182694270641, guid: 7b461623ae1ba87468a5b19151f5f8bd,
+    type: 3}
+  TriggerBombSprite: {fileID: -9124506811505922289, guid: 7b461623ae1ba87468a5b19151f5f8bd,
+    type: 3}
+  NotABombSprite: {fileID: 6612595147876069989, guid: 7b461623ae1ba87468a5b19151f5f8bd,
+    type: 3}
+  FlaggedSprite: {fileID: -8913107742385872672, guid: 7b461623ae1ba87468a5b19151f5f8bd,
+    type: 3}
+  EmptySprite: {fileID: -485912637706016828, guid: 7b461623ae1ba87468a5b19151f5f8bd,
+    type: 3}
+  NumberSprites:
+  - {fileID: 2957911170733428976, guid: 7b461623ae1ba87468a5b19151f5f8bd, type: 3}
+  - {fileID: -6859886144017101442, guid: 7b461623ae1ba87468a5b19151f5f8bd, type: 3}
+  - {fileID: 9050813037455871024, guid: 7b461623ae1ba87468a5b19151f5f8bd, type: 3}
+  - {fileID: 1552433852007419758, guid: 7b461623ae1ba87468a5b19151f5f8bd, type: 3}
+  - {fileID: -9017223216188644264, guid: 7b461623ae1ba87468a5b19151f5f8bd, type: 3}
+  - {fileID: -940605477644679009, guid: 7b461623ae1ba87468a5b19151f5f8bd, type: 3}
+  - {fileID: 7151583770510758660, guid: 7b461623ae1ba87468a5b19151f5f8bd, type: 3}
+  - {fileID: 1135678375413748811, guid: 7b461623ae1ba87468a5b19151f5f8bd, type: 3}

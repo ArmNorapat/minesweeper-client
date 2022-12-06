@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13ccf31f55cf62844bebdafadac84232, type: 3}
+  m_Name: EmojiSprites
+  m_EditorClassIdentifier: 
+  SmileSprite: {fileID: 6229474921842369485, guid: 7b461623ae1ba87468a5b19151f5f8bd,
+    type: 3}
+  DeadSprite: {fileID: 7239431154518028358, guid: 7b461623ae1ba87468a5b19151f5f8bd,
+    type: 3}
+  WowSprite: {fileID: 619293594123748032, guid: 7b461623ae1ba87468a5b19151f5f8bd,
+    type: 3}
+  WinSprite: {fileID: 5812522664955927670, guid: 7b461623ae1ba87468a5b19151f5f8bd,
+    type: 3}
